@@ -6,11 +6,10 @@ The idea behind Talla's name and logo comes from the following:
    which is one of the concepts used in an onion routing network.
 
 2. The lambda symbol as a replacement for the first 'a' in the name 'Talla' is
-   there to represent Church's Lambda calculus, which have had an important
-   role in the theoretic foundation of functional programming over the years.
-
-   Erlang is a functional language, so the lambda symbol deserves a prominent
-   spot in the logo.
+   there to represent Church's Lambda calculus, which have had an important role
+   in the theoretic foundation of functional programming over the years. Erlang
+   is a functional language, so the lambda symbol deserves a prominent spot in
+   the logo.
 
 3. Each of the circles represents one of Tor's directory authority servers (as
    of 24/3 2016). This gives us a backdoor in the logo design to come up with a
